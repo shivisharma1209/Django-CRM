@@ -37,6 +37,9 @@ Create Record.
 Read, Update and Delete record.
 <img width="1280" alt="Screenshot 2024-07-13 at 11 20 35 AM" src="https://github.com/user-attachments/assets/174a6ca2-a038-451c-9faa-608af4d755e5">
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgements
 - https://www.freecodecamp.org/
 - https://www.youtube.com/
